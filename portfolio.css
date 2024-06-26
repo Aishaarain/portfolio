@@ -487,10 +487,11 @@ i:hover{
         left: 15px;
     }
 }
-@media (max-width:276px){
+@media (max-width:282px){
 .info-container .devinfo{
-  min-width: 200px;
-    left:20% ;
+   min-width: 300px;
+    margin-left:10% ;
+    margin-right: 5%;
    
 }
 }
