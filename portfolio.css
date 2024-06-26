@@ -489,8 +489,8 @@ i:hover{
 }
 @media (max-width:276px){
 .info-container .devinfo{
-    min-width: 300px;
-    margin-left:20% ;
-    min-height: 400px;
+  min-width: 200px;
+    left:20% ;
+   
 }
 }
