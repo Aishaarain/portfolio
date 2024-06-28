@@ -490,9 +490,9 @@ i:hover{
 }
 @media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-width:360px) {
     .info-container .devinfo{
-margin-left: 10%;
-width: 300px;}
+margin-left: 5%;
+width: 200px;}
 }
 .info-container .icons{
-    margin-left: 30%;
+    margin-left: 40%;
 }
