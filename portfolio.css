@@ -491,8 +491,8 @@ i:hover{
 @media (max-width:282px){
 .info-container .devinfo{
    min-width: 200px;
-    margin-left:30% ;
-    margin-right: 5%;
+    left:30% ;
+    
    
 }
 }
