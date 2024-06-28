@@ -179,6 +179,7 @@ form input{
   width: 20vw;
   border-radius: 4px;
   padding: 2px;
+    color:black;
   
 }
 #formcheck{
@@ -193,6 +194,7 @@ flex-direction: row;
     width: 20vw;
     border: 2px solid var(--sec-bg-color);
     display: flex;
+    color:black;
 }
 .project{
     margin: 0px 20%;
@@ -489,7 +491,7 @@ i:hover{
         left: 15px;
     }
 }
-@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-width:360px) {
+@media only screen and (max-width:360px) {
     .info-container .devinfo{
 margin-left: 5%;
 max-width: 200px;}
