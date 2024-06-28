@@ -491,7 +491,7 @@ i:hover{
         left: 15px;
     }
 }
-@media (-webkit-min-device-pixel-ratio: 2) and (max-width:360px) {
+@media (max-width:360px) {
     .info-container .devinfo{
 margin-left: 10%;
 width: 300px;}
