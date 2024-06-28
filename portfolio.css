@@ -488,7 +488,7 @@ i:hover{
         left: 15px;
     }
 }
-@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+@media only screen and (-webkit-min-device-pixel-ratio: 2) and (max-width:360px) {
 info-container .devinfo{
 left:20%;
     width:300px;
