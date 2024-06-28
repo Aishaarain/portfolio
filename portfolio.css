@@ -488,11 +488,10 @@ i:hover{
         left: 15px;
     }
 }
-@media (max-width:282px){
-.info-container .devinfo{
-   min-width: 200px;
-    left:30% ;
-    
-   
+@media only screen and (-webkit-min-device-pixel-ratio: 2) {
+info-container{
+left:20%;
+    width:300px;
 }
+    
 }
