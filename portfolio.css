@@ -491,11 +491,3 @@ i:hover{
         left: 15px;
     }
 }
-@media only screen and (max-width:360px) {
-    .info-container .devinfo{
-margin-left: 5%;
-max-width: 200px;}
-}
-.info-container .icons{
-    margin-left: 40%;
-}
